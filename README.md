@@ -3,7 +3,7 @@
 - 🔭 Atualmente buscando trabalho em desenvolvimento mobile
 - 🌱 Estudando Kotlin, Android Studio, MySQL, Typescript
 - 📫 Me contate pelo E-mail: hickdpaula@gmail.com
-- 😄 Pronouns: (Ele/Dele)
+
 
 <div align="center">
   <a href="https://github.com/HickDpaula">
