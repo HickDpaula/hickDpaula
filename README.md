@@ -1,7 +1,6 @@
 ### Olá, Eu sou o Henrique Santos 👋
 
-- 🔭 Atualmente buscando trabalho em desenvolvimento mobile
-- 🌱 Estudando Kotlin, Android Studio, MySQL, Typescript
+- 🔭 Desenvolvedor Java
 - 📫 Me contate pelo E-mail: hickdpaula@gmail.com
 
 
