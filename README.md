@@ -1,7 +1,15 @@
-### Olá, Eu sou o Henrique Santos 👋
+### 👋 Olá! Eu sou o Henrique.
 
-- 🔭 Desenvolvedor Java
-- 📫 Me contate pelo E-mail: hickdpaula@gmail.com
+🚀 Recentemente, migrei do Java para o JavaScript e me identifiquei muito mais com toda a stack JS. Estou adorando explorar e trabalhar com essa tecnologia.
+
+🌱 Atualmente, estou me aprimorando com as seguintes tecnologias:
+
+ReactJS
+NestJS
+Node.js
+Sempre em busca de aprender mais e compartilhar conhecimentos!
+
+
 
 
 <div align="center">
