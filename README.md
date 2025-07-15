@@ -1,14 +1,18 @@
-### 👋 Olá! Eu sou o Henrique.
+### 👋 Fala! Eu sou o Henrique.
 
-🚀 Recentemente, migrei do Java para o JavaScript e me identifiquei muito mais com toda a stack JS. Estou adorando explorar e trabalhar com essa tecnologia.
+💻 Desenvolvedor Full Stack com foco em **TypeScript**, **ReactJS** e **NestJS**, com experiência prática construindo soluções robustas, performáticas e bem estruturadas.
 
-🌱 Atualmente, estou me aprimorando com as seguintes tecnologias:
+🚀 Atuo com projetos reais em produção, entregando desde interfaces acessíveis até integrações complexas no backend. Tenho domínio da stack JS moderna e estou sempre aprimorando boas práticas, arquitetura e testes.
 
-ReactJS
-NestJS
-Node.js
-Sempre em busca de aprender mais e compartilhar conhecimentos!
+🎯 Tecnologias e ferramentas que utilizo no dia a dia:
+- **Frontend:** ReactJS, Context API, Redux, Tailwind, Chakra UI, React Hook Form
+- **Backend:** Node.js, NestJS, Prisma, PostgreSQL, envio de e-mails, autenticação JWT/GovBR
+- **Outros:** Git, Docker, CI/CD, ESLint, Zod, testes unitários
 
+🧠 Gosto de **compartilhar conhecimento** com o time, apoiar novos devs e participar ativamente das decisões técnicas.  
+Sempre em busca de evoluir como dev e como pessoa!
+
+---
 
 <div align="center">
   <a href="https://github.com/HickDpaula">
@@ -16,20 +20,22 @@ Sempre em busca de aprender mais e compartilhar conhecimentos!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HickDpaula&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
-
 <div style="display: inline_block"><br>
-  <img align="center" alt="hick-kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
-  <img align="center" alt="hick-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="hick-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="hick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="hick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="hick-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="hick-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="hick-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="hick-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="hick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="hick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="hick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="hick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="hick-kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-plain.svg">
 </div>
-  
-<div><br>
-  <a href="https://www.linkedin.com/in/henrique-santos-d-paula/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+
+<br>
+
+<div>
+  <a href="https://www.linkedin.com/in/henrique-santos-d-paula/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>   
 </div>
- 
